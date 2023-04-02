@@ -34,5 +34,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sue000731)](https://solved.ac/sue000731)
 </br>
 
-#### 📒 BaekJoon
+#### 📒 Last 7Days
 [![youngseonseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngseonseo)]
