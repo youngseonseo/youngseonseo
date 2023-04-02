@@ -35,4 +35,4 @@
 </br>
 
 #### 📒 Last 7Days
-[![youngseonseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngseonseo)]
+[![@youngseonseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@youngseonseo)]
