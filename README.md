@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Youngseon, I want to be a backend engineer :star:
-#### 💕 Here is my blog : https://developer-youngseon.tistory.com
+
 <br/>
 <br/>
 
