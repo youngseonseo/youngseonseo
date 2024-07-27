@@ -1,5 +1,4 @@
-### Hi there 👋
-#### I'm Youngseon, I want to be a backend engineer :star:
+
 
 <br/>
 <br/>
@@ -9,6 +8,8 @@
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">    
+
 </P>
 </br>
 
